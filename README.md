@@ -1,0 +1,5 @@
+- 👋 Hi, we're @MeynDev
+- 👀 We're interested in P2P connections and privacy
+- 🌱 We're currently working with networks on Python
+- 📫 You can contact us via telegram: @Meynrun, @goose_gooosee
+- ⚡ Fun fact: The owners of this account are a combined 25 years old
